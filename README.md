@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋  I'm Irene (She/Her) 👩‍💻🌱🏋️‍♂️ 
+
+I am a PhD Student @ VisionLAB, Department of Computer Science, Sapienza University of Rome 🎓
+
+📫 How to reach me:
+<p align="left">
+<a href="https://www.linkedin.com/in/irene-cannistraci/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social" hspace="10"></a>     
+<a href="https://twitter.com/ire_cannistraci"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=social" hspace="10"></a>
+</p>
 
 <!--
 **icannistraci/icannistraci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
