@@ -2,11 +2,13 @@
 
 I am a PhD Student @ VisionLAB, Department of Computer Science, Sapienza University of Rome 🎓
 
-📫 How to reach me:
-<p align="center">
+<p>
+    📫 You can reach me at:
 <a href="https://www.linkedin.com/in/irene-cannistraci/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social" hspace="10"></a>     
 <a href="https://twitter.com/ire_cannistraci"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-white?logo=twitter&style=social" hspace="10"></a>
 </p>
+
+--- 
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
