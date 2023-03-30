@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Irene (She/Her) 👩‍💻🌱🏋️‍♂️ 
 
-I am a PhD Student @ GLADIA and VisionLAB, Department of Computer Science, Sapienza University of Rome 🎓
+I am a PhD Student @ <a href="https://gladia.di.uniroma1.it/">GLADIA</a> and VisionLAB, Department of Computer Science, Sapienza University of Rome 🎓
 
 📫 You can reach me at:
     
