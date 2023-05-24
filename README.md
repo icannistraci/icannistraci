@@ -11,13 +11,13 @@ I am a PhD Student @ <a href="https://gladia.di.uniroma1.it/">GLADIA</a> and Vis
 </p>
 
 --- 
-
+<!--
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="icannistraci's stats" src="https://github-readme-stats.vercel.app/api?username=icannistraci&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=prs,issues,contribs&border_radius=30"></a>
 </p>
 
-<!--
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icannistraci&layout=compact&theme=radical&border_radius=30">
