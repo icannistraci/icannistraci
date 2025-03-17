@@ -1,6 +1,7 @@
 ### Hi there 👋  I'm Irene (She/Her) 👩‍💻🌱🏋️‍♂️ 
 
-I am a PhD Student @ <a href="https://gladia.di.uniroma1.it/">GLADIA</a> in the Department of Computer Science @ Sapienza University of Rome 🎓
+I am a Post-doctoral researcher @ ETH Zürich in the <a href="https://mds.infz.eth.ch/">MDS</a> Group in the Department of Computer Science.
+Previously I was a PhD Student in the <a href="https://gladia.di.uniroma1.it/">GLADIA</a> Lab @ Sapienza University of Rome 🎓
 
 📫 You can reach me at:
     
